@@ -1,0 +1,6 @@
+The problem arise because the partition no 8 is not defined 
+for new employee records. As partitions are linked and a part
+of a same table thats why if there is no new space defined
+for a record then adding a record cause a problem.
+
+

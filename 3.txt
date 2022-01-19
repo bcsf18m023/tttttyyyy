@@ -1,0 +1,48 @@
+Data Replication refers to the process of storing
+and maintaining numerous copies of your crucial 
+data across different machines. It helps organizations
+ensure high data availability and accessibility at all 
+times, therefore allowing organizations to access and recover 
+data even during a disaster or data loss.
+
+Benefits:
+The following are some of the key benefits of replicating your data:
+
+1.Better Application Reliability
+2.Better Transactional Commit Performance
+3.Better Read Performance
+4.Data Durability Guarantee
+5.Robust Data Recovery
+
+1.Better Application Reliability:
+Replicating your data across various machines 
+helps ensure that you can access the data with 
+ease, even when a hardware or machinery failure occurs, 
+thereby boosting the reliability of your system.
+
+2.Better Transactional Commit Performance:
+When you’re working with transactional data, 
+you need to monitor various synchronous processes 
+to ensure that the data updation takes place everywhere 
+at the same time. Hence, your application must write the 
+commit before the control threads can continue the tasks.
+
+3.Better Read Performance
+With replication in place, users can route data reads across 
+numerous machines that are a part of the network, thereby improving 
+upon the read performance of your application. Hence, readers working on 
+remote networks can fetch and read data with ease. It also helps reduce the cache 
+missings & lower the input/output operations.
+
+4.Data Durability Guarantee
+Replication helps boost and ensure robust data durability, 
+as it results in data changes/updation taking place on multiple machines 
+simultaneously, instead of a single computer. It thereby provides more processing & computation power,
+by leveraging numerous CPUs and disks to ensure that the replication,
+transformation and loading processes take place correctly.
+
+5.Robust Data Recovery
+Replication allows users to maintain backups of their data 
+that update in real-time, thereby allowing them to access 
+current and up-to-date data, even during any failures/ data losses.
+

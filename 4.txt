@@ -1,0 +1,13 @@
+Partition By List(booking_num)
+(
+Partition p1 values IN (1),
+Partition p2 values IN (2),
+Partition p3 values IN (3),
+Partition p4 values IN (4),
+Partition p5 values IN (5),
+Partition p6 values IN (6),
+Partition p7 values IN (7),
+Partition p8 values IN (8),
+Partition p9 values IN (9),
+Partition p10 values IN (10)
+)

@@ -1,0 +1,42 @@
+In computer engineering, computer architecture is a set of rules 
+and methods that describe the functionality, organization, and implementation 
+of computer systems. The architecture of a system refers to its structure in 
+terms of separately specified components of that system and their interrelationships.
+Some definitions of architecture define it as describing the capabilities and programming 
+model of a computer but not a particular implementation. In other definitions computer architecture 
+involves instruction set architecture design, microarchitecture design, logic design, and implementation.
+
+
+Computer architectures represent the means of interconnectivity for a computer's hardware components as well as the mode of 
+data transfer and processing exhibited. Different computer architecture configurations have been developed to speed 
+up the movement of data, allowing for increased data processing. 
+The basic architecture has the CPU at the core with a main memory and input/output system on either side of the CPU.
+As,
+Printer -> i/O -> CPU -> Memory
+A second computer configuration is the central input/output controller.
+
+CPU -> I/O <-Printer -> memory
+
+A third computer architecture uses the main memory as the location 
+in the computer system from which all data and instructions 
+flow in and out. A fourth computer architecture uses a common data 
+and control bus to interconnect all devices making up a computer system. 
+An improvement on the single shared central bus architecture is the dual bus architecture. 
+These architecture either separates data and control over the two buses or shares them to 
+increase overall performance.
+
+As such, the computer architecture governs the design of a family of computers 
+and defines the logical interface that is targeted by programming languages 
+and their compilers. The organization determines the mix of functional 
+units of which the system is composed and the structure of their interconnectivity. 
+The architecture semantics is the meaning of what the systems do under user direction 
+and how their functional units are controlled to work together.
+
+Ability of a system (such as a database system) to work with or use the parts 
+or equipment of another system.Interoperability is a property referring to the ability 
+of diverse systems and organizations to work together. Infrastructures are public utilities 
+and facilities that are typically used by large numbers of different users, such as the Internet
+and libraries. The way infrastructures are used typically changes over time in a process of 
+evolution and adaptation. The ability of information and service 
+harvesting, discovery, sharing, dissemination, management, 
+preservation, can be facilitated with the interoperable infrastructure.

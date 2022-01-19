@@ -1,0 +1,16 @@
+1.Optimizing the database structure
+2.Optimizing data size
+3.Optimizing data types.
+
+the database structure should be in the way that 
+it may take the exact parameter in consideration
+while desiging the structure according to business
+information.
+
+the data size optimization refer to making indexes
+so that only the required data is fetch and no of
+comparison should be as much low as possible.
+
+the datatypes assigned to every attribute must be
+the right one as in real world problems and range 
+should be considerd as low as possible.
